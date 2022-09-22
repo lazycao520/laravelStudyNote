@@ -17,4 +17,4 @@ laravel new projectName
 curl -s "https://laravel.build/example-app" | bash
 ./vendor/bin/sail up
 ```
-> Tips: https://laravel.build/example-app访问不到，可以在浏览器中复制脚本，在命令行中执行
+> Tips: [https://laravel.build/example-app访问不到，可以在浏览器中复制脚本，在命令行中执行](https://laravel.build/example-app)
